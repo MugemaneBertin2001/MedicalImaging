@@ -1,6 +1,6 @@
 # Medical Imaging
 
-This folder contains Python programs related to clinical imaging, specifically focusing on calculations related to k-space, field-of-view (FOV), and regions of interest (ROI) in MRI.
+This folder contains Python programs related to Medical imaging, specifically focusing on calculations related to k-space, field-of-view (FOV), and regions of interest (ROI) in MRI.
 
 ## Program 1: Calculating FOV and k-space Parameters
 
